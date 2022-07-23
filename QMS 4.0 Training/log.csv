@@ -1,0 +1,166 @@
+Row Labels
+{Engineering/Requirements Development and Management => Obsolete Templates}/TMPL_CUSTFB.xlsx
+Customer feedback in EinFrame
+{Process Management => Obsolete Templates}/TMPL_PEGPLN.docx
+TMPL_PEGPLN marked as obsolete
+{Project Management => Obsolete Templates}/GDLN_ESTMAT.docx
+Estimation process overhauled
+{Project Management => Obsolete Templates}/TMPL_ESTFRW.xlsx
+"Existing templates for hardware, firmware & mechanical & final efforts estimation shift to obsolete templates folder, new template for final estimation added"
+{Project Management => Obsolete Templates}/TMPL_ESTHDW.xlsx
+"Existing templates for hardware, firmware & mechanical & final efforts estimation shift to obsolete templates folder, new template for final estimation added"
+{Project Management => Obsolete Templates}/TMPL_ESTMCH.xlsx
+"Existing templates for hardware, firmware & mechanical & final efforts estimation shift to obsolete templates folder, new template for final estimation added"
+{Project Management => Obsolete Templates}/TMPL_MLSRVW.xlsx
+First pass through the Project Monitoring procedure to bring it inline with GIL.ef. Added guidance for EVMS. Obsoleted milestone review template as this is a part of the gate review workflow. The checkpoints can be harmonised.
+{Project Management => Obsolete Templates}/TMPL_PRJPLN.docx
+"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template."
+{Project Management => Obsolete Templates}/TMPL_RSKMTX.xlsx
+First pass through risk management procedure to bring it inline with einframe. Obsoleted the risk matrix template.
+{Support/Measurement and Analysis => Obsolete Templates}/TOOL_MESURE.xlsm
+Measurement and audit templates obsoleted
+{Support/Measurement and Analysis => Obsolete Templates}/TOOL_METRIC.zip
+Measurement and audit templates obsoleted
+{Support/Measurement and Analysis => Obsolete Templates}/TOOL_SMTSRW.xlsx
+Measurement and audit templates obsoleted
+{Support/Quality Assurance => Obsolete Templates}/TMPL_ADTPLN.docx
+Measurement and audit templates obsoleted
+{Support/Quality Assurance => Obsolete Templates}/TMPL_ADTSCH.xlsx
+Measurement and audit templates obsoleted
+{Support/Training => Obsolete Templates}/Monthly Training Calendar.xls
+Obsoleted Monthly Training Calendar
+{Support/Training => Obsolete Templates}/TMPL_FBPRTC.docx
+Training process aligned with Einframe
+{Support/Training => Obsolete Templates}/TMPL_FBTRNR.docx
+Training process aligned with Einframe
+{Support/Training => Obsolete Templates}/TMPL_TRGSTR.docx
+Training process aligned with Einframe
+{Support/Training => Obsolete Templates}/Training Database.xlsx
+Training process aligned with Einframe
+{Support/Training => Obsolete Templates}/Yearly Training Calender.xls
+Training process aligned with Einframe
+Engineering/Requirements Development and Management/PRCD_REQDEV.docx
+Customer feedback in EinFrame
+Engineering/Requirements Development and Management/TMPL_CHGREQ.docx
+details made in tabular form
+finalised change request form
+Engineering/Requirements Development and Management/TMPL_CUSTFB.xlsx
+Made in tabular form
+Engineering/Verification and Validation/PRCD_PERREV.docx
+Modified to mention Incident Management as Review & Defect Log.
+Peer review procedure updated in line with EinFrame provision
+verification and validation procedures finalised
+Engineering/Verification and Validation/PRCD_VALDTN.docx
+Validation procedure updated in line with EinFrame provision
+verification and validation procedures finalised
+GDLN_TEAMNG.docx
+"Revert ""testing purpose"""
+testing purpose
+gitjson.py
+Added Log tool and log for release note prep
+Updated to generate a csv file
+gitjson.py => git_log2csv.py
+Renamed the log tool
+log.csv
+Release notes & log staged for release
+Updated to generate a csv file
+log.json
+Added Log tool and log for release note prep
+Updated to generate a csv file
+Obsolete Templates/TMPL_ESTFNL.xlsx
+Delete the old TMPL_ESTFNL from obsolete folder
+"Existing templates for hardware, firmware & mechanical & final efforts estimation shift to obsolete templates folder, new template for final estimation added"
+Process Management/Gap Analysis_Einframe Provision_R002.xlsx
+Addded EinFrame provision
+Process Management/PRCD_ORGFCS.docx
+PEG procedure updated inline with Einframe provisions. The PEG Plan template has been made redundent
+Process management finalised
+Process Management/TMPL_QMSREQ.xlsx
+Configuration management procedure aligned
+Project Management/CHKL_PLNREV.xlsx
+finalised plan review checklist
+identified not usable points
+review points discussed and un-highlighted.
+Project Management/Earned Value Management System (EVMS)- a Qualitative Overview.pdf
+First pass through the Project Monitoring procedure to bring it inline with GIL.ef. Added guidance for EVMS. Obsoleted milestone review template as this is a part of the gate review workflow. The checkpoints can be harmonised.
+Project Management/GDLN_TAILOR.docx
+Project classification table revised
+tailoring guidelines finalised
+Project Management/PRCD_ESTMAT.docx
+Estimation process overhauled
+Finalised the estimation procedure.
+Project Management/PRCD_PRJMAC.docx
+Against Audit observations 31 & 34 : extra bold corrected
+Finalised the M&C procedure
+First pass through the Project Monitoring procedure to bring it inline with GIL.ef. Added guidance for EVMS. Obsoleted milestone review template as this is a part of the gate review workflow. The checkpoints can be harmonised.
+Minor Grammatical
+Updated task approval and timesheets section
+Project Management/PRCD_PRJPLN.docx
+Configuration management procedure aligned
+finalised planning procedure
+"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template."
+Tailoring proposal google form link added
+Project Management/PRCD_RSKMGM.docx
+Against audit NC 27 & 28 and observation 29
+First pass through risk management procedure to bring it inline with einframe. Obsoleted the risk matrix template.
+Risk management procedure finalised
+Project Management/Project Management Starter Guide for Non-Admin Users.docx
+"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template."
+Project Management/TMPL_CMPLAN.docx
+Configuration management procedure aligned
+"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template."
+Project Management/TMPL_ESTFNL.xlsx
+"Existing templates for hardware, firmware & mechanical & final efforts estimation shift to obsolete templates folder, new template for final estimation added"
+Finalised the final estimation template
+Updated Estimation sheet
+QMS3.1_QMSREL.docx
+Release notes & log staged for release
+QMS4.0_QMSREL.docx
+Release notes & log staged for release
+Support/Configuration Management/~$CD_CONFIG.docx
+configuration structure updated according to github
+Delete ~$CD_CONFIG.docx
+Support/Configuration Management/CHKL_ITAUDT.xlsx
+Against audit NC 34 : IT audit checklist shifted
+Support/Configuration Management/MSTL_CMLIST.xlsx
+Against audit observation 33 : CM list updated
+Highlighted the rows which need to remove
+Support/Configuration Management/PRCD_BACKUP.docx
+look up and track changes on
+Support/Configuration Management/PRCD_CONFIG.docx
+According to SVN and GitHub structures added
+Against audit observation 31 : typo corrected.
+Against audit observation 33 : point no.27
+aligned with Github
+Configuration management procedure aligned
+configuration structure updated according to github
+Finalised CM procedure
+Support/Measurement and Analysis/MSTL_BOTOPO.docx
+Finalised measurement procedures and templates
+Updated the BOTOPO to align with measurement decided
+Support/Measurement and Analysis/PRCD_MEASUR.docx
+Against audit observation 31 typo errors corrected
+Finalised measurement procedures and templates
+Line rejection percentage and Schedule variance added
+Project metrics updated
+Revised Measurement Procedure
+Support/Measurement and Analysis/TMPL_MESRPT.docx
+Against audit observation 31 typo errors corrected.
+Finalised measurement procedures and templates
+Mentioned EVMS chart use in causal analysis
+Template version number updated.
+Updated the Project metrics report template
+Support/Quality Assurance/CHKL_AUDITT.xlsx
+Against audit NC 30 : revised the checklist
+Support/Quality Assurance/CHKL_ITAUDT.xlsx
+Against audit NC 32 : IT audit checklist moved
+Support/Quality Assurance/PRCD_AUDITT.docx
+Finalised Audit procedure
+updated the PQA procedure
+Support/Training/PRCD_TRAING.docx
+Against audit observation 31 typo errors corrected.
+Finalized the training procedure.
+Training process aligned with Einframe
+(blank)
+(blank)
+Grand Total
