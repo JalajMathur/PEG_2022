@@ -1,0 +1,805 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9014-EE70
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe
+
+27-07-2022  13:02    <DIR>          .
+27-07-2022  13:02    <DIR>          ..
+22-07-2022  15:17    <DIR>          Agreement Final
+22-07-2022  15:17    <DIR>          CMMI Roadmap
+22-07-2022  16:44    <DIR>          Einframe database backup strategy
+22-07-2022  15:17    <DIR>          From GPIL
+07-07-2021  11:27         1,316,003 Genus (GIL) Toll Gates (NPDL Process).PDF
+22-02-2022  09:41            11,216 GIL R&D Employees List with Possible roles.xlsx
+22-07-2022  15:17    <DIR>          GSTIN Information
+22-07-2022  15:17    <DIR>          Intimate to IT
+22-07-2022  15:17    <DIR>          Invoices
+04-08-2021  15:27                66 Login details.txt
+25-08-2021  17:54            85,755 Mail - Our E-Mails have changed.pdf
+22-07-2022  16:23    <DIR>          Module Training
+22-07-2022  15:39    <DIR>          Process Improvement
+22-07-2022  15:17    <DIR>          QUOTATION
+22-07-2022  15:17    <DIR>          Report to SM
+22-07-2022  15:17    <DIR>          Screen Caps
+27-07-2022  13:02                 0 ToC.txt
+               5 File(s)      1,413,040 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Agreement Final
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-06-2021  10:47            37,060 NDA - Final.docx
+26-06-2021  13:02         6,175,581 Signed NDA_26-06-21.pdf
+               2 File(s)      6,212,641 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\CMMI Roadmap
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          09-10-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\CMMI Roadmap\09-10-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+09-10-2021  14:31           127,749 WhatsApp Image 2021-10-09 at 2.30.56 PM.jpeg
+               1 File(s)        127,749 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Einframe database backup strategy
+
+22-07-2022  16:44    <DIR>          .
+22-07-2022  16:44    <DIR>          ..
+22-07-2022  16:44    <DIR>          25-04-22
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Einframe database backup strategy\25-04-22
+
+22-07-2022  16:44    <DIR>          .
+22-07-2022  16:44    <DIR>          ..
+22-07-2022  16:44            85,541 Mail - EinFrame Database Backup Strategy.pdf
+               1 File(s)         85,541 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\From GPIL
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+12-10-2021  10:18         9,195,209 Documentation- Rev2_4.pdf
+12-10-2021  10:17            34,199 Gap Analysis_Einframe Provision_R002.xlsx
+12-10-2021  10:17         2,676,836 Project Management Starter Guide for Non-Admin Users.pdf
+               3 File(s)     11,906,244 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\GSTIN Information
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          01-04-22
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\GSTIN Information\01-04-22
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+01-04-2022  19:56           165,556 AA080322057491E_RC30032022.pdf
+01-04-2022  19:57           160,076 Mail - Please update your records with our GSTIN.pdf
+               2 File(s)        325,632 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Intimate to IT
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          15-06-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Intimate to IT\15-06-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+15-06-2021  10:54           155,999 Mail - Einframe Software R&D GIL.pdf
+               1 File(s)        155,999 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          2021-22
+22-07-2022  15:17    <DIR>          2022-23
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices\2021-22
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          04-01-22
+22-07-2022  15:17    <DIR>          07-04-22
+22-07-2022  15:17    <DIR>          13-10-21
+22-07-2022  15:17    <DIR>          Jul.21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices\2021-22\04-01-22
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+04-01-2022  09:26           153,071 Invoice 2022-01-04.pdf
+               1 File(s)        153,071 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices\2021-22\07-04-22
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+06-05-2022  10:26            86,647 EinFrame Genus Innovation Apr 2022 Signed.pdf
+09-04-2022  09:19             2,654 EinFrame Genus Innovation Apr 2022.pdf
+02-05-2022  09:58           365,208 Invoice 2022-01-04 Signed.pdf
+09-04-2022  09:24           173,466 Mail - EinFrame Invoice Apr 2022.pdf
+               4 File(s)        627,975 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices\2021-22\13-10-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+18-10-2021  16:04             2,387 Invoice_1281.pdf
+19-10-2021  09:24           151,280 Invoice_1281_Scanned.pdf
+13-10-2021  11:36           158,698 Mail - Invoice for Q3-2021.pdf
+               3 File(s)        312,365 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices\2021-22\Jul.21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+19-10-2021  09:25           354,982 invoice (4).pdf
+               1 File(s)        354,982 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices\2022-23
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          8-Jul-22
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Invoices\2022-23\8-Jul-22
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+08-07-2022  17:35             2,604 Genus Innovation Q2.pdf
+08-07-2022  17:40           154,805 Mail - Invoice for EinFrame Q2 2022.pdf
+               2 File(s)        157,409 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Module Training
+
+22-07-2022  16:23    <DIR>          .
+22-07-2022  16:23    <DIR>          ..
+22-07-2022  16:21    <DIR>          01-09-21
+22-07-2022  16:23    <DIR>          04-09-21
+22-07-2022  16:15    <DIR>          06-07-21
+22-07-2022  16:17    <DIR>          25-08-21
+22-07-2022  15:17    <DIR>          Training Module
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Module Training\01-09-21
+
+22-07-2022  16:21    <DIR>          .
+22-07-2022  16:21    <DIR>          ..
+22-07-2022  16:20            82,571 Mail - EinFrame Discussion.pdf
+               1 File(s)         82,571 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Module Training\04-09-21
+
+22-07-2022  16:23    <DIR>          .
+22-07-2022  16:23    <DIR>          ..
+22-07-2022  16:22            89,802 Mail - EinFrame Catchup with Dr. Ripi.pdf
+               1 File(s)         89,802 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Module Training\06-07-21
+
+22-07-2022  16:15    <DIR>          .
+22-07-2022  16:15    <DIR>          ..
+22-07-2022  16:14           120,891 Mail - EinFrame Administration and Setup Training.pdf
+               1 File(s)        120,891 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Module Training\25-08-21
+
+22-07-2022  16:17    <DIR>          .
+22-07-2022  16:17    <DIR>          ..
+22-07-2022  16:16            82,558 Mail - Zoom Meeting Link.pdf
+               1 File(s)         82,558 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Module Training\Training Module
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  16:43    <DIR>          Apr.22
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Module Training\Training Module\Apr.22
+
+22-07-2022  16:43    <DIR>          .
+22-07-2022  16:43    <DIR>          ..
+23-04-2022  15:57        60,029,746 2022-04-23 EinFrame Training @ Genus Innovation.mp4
+22-07-2022  16:43            84,064 Mail - EinFrame Training Module Discussion.pdf
+               2 File(s)     60,113,810 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement
+
+22-07-2022  15:39    <DIR>          .
+22-07-2022  15:39    <DIR>          ..
+22-07-2022  17:03    <DIR>          Process meeting with Users
+22-07-2022  16:50    <DIR>          Requirements or Improvements
+22-07-2022  16:38    <DIR>          User Feedback
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users
+
+22-07-2022  17:03    <DIR>          .
+22-07-2022  17:03    <DIR>          ..
+22-07-2022  16:54    <DIR>          03-09-21 (steps to fill timesheet)
+22-07-2022  15:17    <DIR>          09-10-21
+22-07-2022  16:58    <DIR>          09-10-21 (multimple meetings)
+22-07-2022  15:17    <DIR>          13-10-21
+22-07-2022  16:50    <DIR>          14-08-21 (Product KPIs)
+22-07-2022  15:17    <DIR>          15-09-21
+22-07-2022  15:17    <DIR>          17-07-21
+09-10-2021  14:32           106,771 17-9-21.jpeg
+22-07-2022  16:52    <DIR>          20-09-21 (User feedbacks details)
+22-07-2022  17:00    <DIR>          22-02-22 (Roles)
+22-07-2022  15:17    <DIR>          25-08-21
+22-07-2022  15:17    <DIR>          27-07-21
+22-07-2022  17:02    <DIR>          30-03-22 (multiple meetings)
+22-07-2022  17:03    <DIR>          30-04-22 (Talent mapping)
+22-07-2022  15:17    <DIR>          30-10-21
+09-10-2021  14:32           130,156 8-10-21.jpeg
+09-10-2021  14:32           138,849 8-9-21.jpeg
+22-07-2022  15:17    <DIR>          Hands on Training PPT
+               3 File(s)        375,776 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\03-09-21 (steps to fill timesheet)
+
+22-07-2022  16:54    <DIR>          .
+22-07-2022  16:54    <DIR>          ..
+22-07-2022  16:53           427,692 Mail - EinFrame Email Issues.pdf
+               1 File(s)        427,692 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\09-10-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+06-10-2021  11:37            80,384 Individual_Tasks_Td9Uv.xls
+09-10-2021  17:27         1,184,109 Mail - EinFrame Email Issues.pdf
+06-10-2021  14:24           644,608 Project Status.ppt
+06-10-2021  11:37           465,408 Timesheetq7K2Y.xls
+               4 File(s)      2,374,509 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\09-10-21 (multimple meetings)
+
+22-07-2022  16:58    <DIR>          .
+22-07-2022  16:58    <DIR>          ..
+22-07-2022  16:57         1,183,749 Mail - EinFrame Email Issues.pdf
+               1 File(s)      1,183,749 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\13-10-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+13-10-2021  18:18           196,745 Mail - Einframe _ Process implementation status meeting.pdf
+               1 File(s)        196,745 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\14-08-21 (Product KPIs)
+
+22-07-2022  16:50    <DIR>          .
+22-07-2022  16:50    <DIR>          ..
+22-07-2022  16:49           149,857 Mail - Product KPIs.pdf
+19-08-2021  18:02            33,792 Product KPIs.xls
+               2 File(s)        183,649 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\15-09-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+15-09-2021  16:36         1,066,925 Mail - EinFrame Email Issues.pdf
+               1 File(s)      1,066,925 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\17-07-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+17-07-2021  15:03           321,053 Mail - EinFrame Email Issues.pdf
+               1 File(s)        321,053 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\20-09-21 (User feedbacks details)
+
+22-07-2022  16:52    <DIR>          .
+22-07-2022  16:52    <DIR>          ..
+22-07-2022  16:51            37,376 Feedbacks_CnCnY_20.xls
+22-07-2022  16:51           174,071 Mail - Einframe _ User Feedbacks details.pdf
+               2 File(s)        211,447 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\22-02-22 (Roles)
+
+22-07-2022  17:00    <DIR>          .
+22-07-2022  17:00    <DIR>          ..
+22-07-2022  16:59            11,216 GIL R&D Employees List with Possible roles.xlsx
+22-07-2022  16:59           176,449 Mail - Project Team & Roles in Einframe.pdf
+               2 File(s)        187,665 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\25-08-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+26-08-2021  12:31            12,164 Formats of 3 New Reports.xlsx
+26-08-2021  12:09           148,333 Mail - Formats of 2 New Reports.pdf
+26-08-2021  12:09           106,656 Mail - Planed Efforts and Planned Cost.pdf
+               3 File(s)        267,153 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\27-07-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+27-07-2021  15:34            12,156 Improvement Features in Einframe.xlsx
+27-07-2021  15:41           441,997 Mail - EinFrame Email Issues (Internal).pdf
+               2 File(s)        454,153 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\30-03-22 (multiple meetings)
+
+22-07-2022  17:02    <DIR>          .
+22-07-2022  17:02    <DIR>          ..
+22-07-2022  17:01           575,805 Mail - Einframe _ Process implementation status meeting.pdf
+               1 File(s)        575,805 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\30-04-22 (Talent mapping)
+
+22-07-2022  17:03    <DIR>          .
+22-07-2022  17:03    <DIR>          ..
+22-07-2022  17:03           359,241 Mail - Employee Talent Mapping in Einframe.pdf
+               1 File(s)        359,241 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\30-10-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+30-10-2021  16:12           287,321 Mail - Einframe _ Process implementation status meeting.pdf
+               1 File(s)        287,321 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\Hands on Training PPT
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          12-10-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Process meeting with Users\Hands on Training PPT\12-10-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+11-10-2021  18:10         3,527,680 Hands on Training.ppt
+12-10-2021  10:38           144,234 Mail - Einframe Hands On Training PPT.pdf
+               2 File(s)      3,671,914 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements
+
+22-07-2022  16:50    <DIR>          .
+22-07-2022  16:50    <DIR>          ..
+22-07-2022  16:42    <DIR>          01-04-22
+22-07-2022  16:46    <DIR>          02-05-22
+22-07-2022  15:17    <DIR>          07-09-21
+22-07-2022  15:30    <DIR>          12-07-21
+22-07-2022  16:29    <DIR>          12-10-21
+22-07-2022  16:41    <DIR>          14-03-22
+22-07-2022  15:17    <DIR>          17-07-21
+22-07-2022  15:38    <DIR>          24-10-21
+22-07-2022  16:19    <DIR>          25-08-21
+22-07-2022  15:17    <DIR>          27-07-21
+03-08-2021  16:10            39,905 Copy of Instrument record.xlsx
+22-07-2022  16:47    <DIR>          New reports regarding
+16-01-2021  12:29            58,325 Projects Master Sheet.xlsx
+               2 File(s)         98,230 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\01-04-22
+
+22-07-2022  16:42    <DIR>          .
+22-07-2022  16:42    <DIR>          ..
+22-07-2022  16:42           127,182 Mail - Support Ticket Update.pdf
+               1 File(s)        127,182 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\02-05-22
+
+22-07-2022  16:46    <DIR>          .
+22-07-2022  16:46    <DIR>          ..
+22-07-2022  16:45           199,468 Mail - New Survey Notification.pdf
+               1 File(s)        199,468 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\07-09-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+07-09-2021  16:36            27,136 Individual_Tasks_UyXTX.xls
+08-09-2021  17:40           223,890 Mail - Weekly timesheet capture report.pdf
+08-09-2021  12:31            49,152 Tasks_Planned_vs_Actual936d6_18-7.xls
+               3 File(s)        300,178 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\12-07-21
+
+22-07-2022  15:30    <DIR>          .
+22-07-2022  15:30    <DIR>          ..
+22-07-2022  15:29           171,703 Mail - Regarding email to new users in EinFrame.pdf
+22-07-2022  15:29           192,522 Mail - Testing plus e-mail address.pdf
+               2 File(s)        364,225 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\12-10-21
+
+22-07-2022  16:29    <DIR>          .
+22-07-2022  16:29    <DIR>          ..
+22-07-2022  16:28           140,965 Mail - Re_[## 340 ##] New feedback (Error) from Genus Innovations Limited.pdf
+               1 File(s)        140,965 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\14-03-22
+
+22-07-2022  16:41    <DIR>          .
+22-07-2022  16:41    <DIR>          ..
+22-07-2022  16:40           217,262 Mail - Ticket Resolution Update.pdf
+               1 File(s)        217,262 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\17-07-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+17-07-2021  14:04           303,188 Mail - EinFrame Email Issues.pdf
+               1 File(s)        303,188 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\24-10-21
+
+22-07-2022  15:38    <DIR>          .
+22-07-2022  15:38    <DIR>          ..
+22-07-2022  15:38           152,588 Mail - Ticket Update - More Information required.pdf
+               1 File(s)        152,588 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\25-08-21
+
+22-07-2022  16:19    <DIR>          .
+22-07-2022  16:19    <DIR>          ..
+26-08-2021  12:31            12,164 Formats of 3 New Reports.xlsx
+26-08-2021  12:09           148,333 Mail - Formats of 2 New Reports.pdf
+22-07-2022  16:18           106,264 Mail - Planed Efforts and Planned Cost.pdf
+               3 File(s)        266,761 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\27-07-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+27-07-2021  15:34            12,156 Improvement Features in Einframe.xlsx
+27-07-2021  15:44           318,011 Mail - EinFrame Feature Requests.pdf
+               2 File(s)        330,167 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding
+
+22-07-2022  16:47    <DIR>          .
+22-07-2022  16:47    <DIR>          ..
+29-07-2021  18:08            24,576 Action items headers.xls
+22-07-2022  16:31    <DIR>          Feedback status report
+22-07-2022  15:17    <DIR>          Individual Tasks report
+22-07-2022  16:47    <DIR>          Monthly activity report
+22-07-2022  15:17    <DIR>          Planned vs Actual Task report
+22-07-2022  16:32    <DIR>          Publish wise project report
+               1 File(s)         24,576 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Feedback status report
+
+22-07-2022  16:31    <DIR>          .
+22-07-2022  16:31    <DIR>          ..
+22-07-2022  16:31    <DIR>          14-10-21
+22-07-2022  16:27    <DIR>          21-09-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Feedback status report\14-10-21
+
+22-07-2022  16:31    <DIR>          .
+22-07-2022  16:31    <DIR>          ..
+22-07-2022  16:30           154,748 Mail - Re_[## 337 ##] New feedback (Improvement) from Genus Innovations Limited.pdf
+               1 File(s)        154,748 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Feedback status report\21-09-21
+
+22-07-2022  16:27    <DIR>          .
+22-07-2022  16:27    <DIR>          ..
+22-07-2022  16:27           111,107 Mail - Feedbacks report.pdf
+               1 File(s)        111,107 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Individual Tasks report
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          14-09-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Individual Tasks report\14-09-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+14-09-2021  11:43            47,104 Individual_Tasks_9D1qM_deepesh.xls
+14-09-2021  11:42            36,352 Individual_Tasks_9D1qM_vikash.xls
+14-09-2021  11:33            58,368 Individual_Tasks_A66wb_jal.xls
+14-09-2021  11:57            41,984 Individual_Tasks_e99gn_sobhag.xls
+14-09-2021  11:39            56,320 Individual_Tasks_pjTxU_umesh.xls
+14-09-2021  11:56            43,520 Individual_Tasks_QSrTb_Shweta.xls
+15-09-2021  11:44           325,545 Mail - Weekly timesheet capture report.pdf
+               7 File(s)        609,193 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Monthly activity report
+
+22-07-2022  16:47    <DIR>          .
+22-07-2022  16:47    <DIR>          ..
+22-07-2022  16:47    <DIR>          01-07-22
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Monthly activity report\01-07-22
+
+22-07-2022  16:47    <DIR>          .
+22-07-2022  16:47    <DIR>          ..
+22-07-2022  16:47           208,520 Mail - Fwd_ Monthly Activity Report for - Genus Innovation Limited.pdf
+               1 File(s)        208,520 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Planned vs Actual Task report
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          14-09-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Planned vs Actual Task report\14-09-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+15-09-2021  11:44           325,545 Mail - Weekly timesheet capture report.pdf
+14-09-2021  15:34            55,808 Tasks_Planned_vs_Actual39ScQ_jal.xls
+15-09-2021  11:37            21,504 Tasks_Planned_vs_Actual5T9zw_deepesh.xls
+15-09-2021  11:42            57,856 Tasks_Planned_vs_ActualAG4GC_umesh.xls
+15-09-2021  11:37            17,920 Tasks_Planned_vs_Actualgf6Xx_abhi.xls
+15-09-2021  11:36            21,504 Tasks_Planned_vs_Actualy7Sbv_sobhag.xls
+15-09-2021  11:37            14,336 Tasks_Planned_vs_ActualZNezk_pawan.xls
+               7 File(s)        514,473 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Publish wise project report
+
+22-07-2022  16:32    <DIR>          .
+22-07-2022  16:32    <DIR>          ..
+22-07-2022  16:26    <DIR>          06-10-21
+22-07-2022  16:32    <DIR>          21-10-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Publish wise project report\06-10-21
+
+22-07-2022  16:26    <DIR>          .
+22-07-2022  16:26    <DIR>          ..
+22-07-2022  16:25           241,104 Mail - Feedbacks report.pdf
+               1 File(s)        241,104 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\Requirements or Improvements\New reports regarding\Publish wise project report\21-10-21
+
+22-07-2022  16:32    <DIR>          .
+22-07-2022  16:32    <DIR>          ..
+22-07-2022  16:32           230,962 Mail - Project Publish Report.pdf
+               1 File(s)        230,962 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback
+
+22-07-2022  16:38    <DIR>          .
+22-07-2022  16:38    <DIR>          ..
+22-07-2022  15:17    <DIR>          05-10-21
+22-07-2022  16:38    <DIR>          14-11-21
+22-07-2022  15:52    <DIR>          16-02-22
+22-07-2022  15:53    <DIR>          17-02-22
+22-07-2022  15:17    <DIR>          20-09-21
+22-07-2022  15:40    <DIR>          24-10-21
+22-07-2022  15:45    <DIR>          25-10-21
+22-07-2022  15:39    <DIR>          28-08-21
+22-07-2022  15:51    <DIR>          31-10-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\05-10-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+05-10-2021  14:28            35,328 Feedbacks_gSAKU_5-10-21.xls
+05-10-2021  14:36           151,086 Mail - Feedbacks report.pdf
+               2 File(s)        186,414 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\14-11-21
+
+22-07-2022  16:38    <DIR>          .
+22-07-2022  16:38    <DIR>          ..
+22-07-2022  16:38           162,821 Mail - EinFrame Ticket Status.pdf
+               1 File(s)        162,821 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\16-02-22
+
+22-07-2022  15:52    <DIR>          .
+22-07-2022  15:52    <DIR>          ..
+22-07-2022  15:51           132,234 Mail - Ad-hoc timesheet for project.pdf
+               1 File(s)        132,234 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\17-02-22
+
+22-07-2022  15:53    <DIR>          .
+22-07-2022  15:53    <DIR>          ..
+22-07-2022  15:53           146,116 Mail - RE_ Ad-hoc timesheet for project.pdf
+22-07-2022  15:52           158,299 Project Report for 10KW.pdf
+               2 File(s)        304,415 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\20-09-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+20-09-2021  10:24            37,376 Feedbacks_CnCnY_20.xls
+20-09-2021  10:31           148,059 Mail - Einframe _ User Feedbacks details.pdf
+20-09-2021  10:30           147,718 Mail - Feedbacks report.pdf
+               3 File(s)        333,153 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\24-10-21
+
+22-07-2022  15:40    <DIR>          .
+22-07-2022  15:40    <DIR>          ..
+22-07-2022  15:40            93,861 Mail - Ticket Update.pdf
+22-07-2022  15:39            79,000 Mail - Update on ticket.pdf
+               2 File(s)        172,861 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\25-10-21
+
+22-07-2022  15:45    <DIR>          .
+22-07-2022  15:45    <DIR>          ..
+22-07-2022  15:41            89,432 Mail - Ticket Information Required.pdf
+22-07-2022  15:44            96,968 Mail - Ticket Update_efforts.pdf
+22-07-2022  15:44            91,531 Mail - Ticket Update_EVMS.pdf
+22-07-2022  15:43            90,660 Mail - Ticket Update_schedule_variance.pdf
+               4 File(s)        368,591 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\28-08-21
+
+22-07-2022  15:39    <DIR>          .
+22-07-2022  15:39    <DIR>          ..
+28-08-2021  14:44            32,256 Feedbacks_MAzHF.xls
+               1 File(s)         32,256 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Process Improvement\User Feedback\31-10-21
+
+22-07-2022  15:51    <DIR>          .
+22-07-2022  15:51    <DIR>          ..
+22-07-2022  15:47            89,226 Mail - Ticket Update_asset_framework.pdf
+22-07-2022  15:45            89,950 Mail - Ticket Update_Bharti.pdf
+22-07-2022  15:48            90,436 Mail - Ticket Update_efforts.pdf
+22-07-2022  15:46            90,568 Mail - Ticket Update_gate_report.pdf
+22-07-2022  15:50            93,009 Mail - Ticket Update_planned_efforts.pdf
+22-07-2022  15:50            91,404 Mail - Ticket Update_timesheet_link.pdf
+               6 File(s)        544,593 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          11-12-19
+22-07-2022  15:17    <DIR>          For 2021-22
+22-07-2022  15:17    <DIR>          For 2022-23
+22-07-2022  15:17    <DIR>          Revised (13-12-19)
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\11-12-19
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+11-12-2019  17:13           228,433 Mail - Quotation for EinFrame hosting & maintenance for 1 year.pdf
+11-12-2019  17:05             2,477 QUOTATION_1010_cCGy.pdf
+               2 File(s)        230,910 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\For 2021-22
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          02-04-21
+22-07-2022  15:17    <DIR>          Jun.21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\For 2021-22\02-04-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+02-04-2021  16:47             2,505 Invoice_1018.pdf
+02-04-2021  16:51           172,496 Mail - Quotation for EinFrame hosting & maintenance for 1 year.pdf
+               2 File(s)        175,001 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\For 2021-22\Jun.21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          08-06-21
+07-06-2021  13:43           148,775 Mail - Non Disclosure Agreement format verification for R&D GIL.pdf
+07-06-2021  12:24            24,037 Monthly report- May-21.xlsx
+04-06-2021  13:54            32,375 NDA.docx
+04-06-2021  13:55            92,514 Quotation Genus 2021-06.pdf
+22-07-2022  15:17    <DIR>          Revise quotation (14-06-21)
+               4 File(s)        297,701 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\For 2021-22\Jun.21\08-06-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+08-06-2021  08:57            36,986 42.22_MNDA.docx
+08-06-2021  11:36           212,204 Mail - Non Disclosure Agreement format verification for R&D GIL.pdf
+08-06-2021  11:36           250,971 Mail - Quotation for EinFrame hosting & maintenance for 1 year.pdf
+               3 File(s)        500,161 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\For 2021-22\Jun.21\Revise quotation (14-06-21)
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+14-06-2021  12:06            92,023 Quotation Genus 2021-06 v2.pdf
+               1 File(s)         92,023 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\For 2022-23
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          06-06-22
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\For 2022-23\06-06-22
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+01-07-2022  16:01            27,853 2710000534 Runtime.pdf
+01-07-2022  16:03           144,506 Mail - Quotation for EinFrame (2022-23).pdf
+06-06-2022  14:25            91,272 Quotation Genus 2022-06.pdf
+               3 File(s)        263,631 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\QUOTATION\Revised (13-12-19)
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+13-12-2019  12:16             2,480 QUOTATION_1010_95PE.pdf
+               1 File(s)          2,480 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Report to SM
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+22-07-2022  15:17    <DIR>          06-09-21
+22-07-2022  15:17    <DIR>          06-12-21
+22-07-2022  15:17    <DIR>          15-09-21
+               0 File(s)              0 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Report to SM\06-09-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+07-09-2021  12:35           149,226 Mail - Timesheet Report.pdf
+07-09-2021  12:35           202,500 Mail - Weekly timesheet capture report.pdf
+06-09-2021  17:32           436,224 TimesheethFaDE.xls
+               3 File(s)        787,950 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Report to SM\06-12-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+06-12-2021  13:09           155,605 Mail - Weekly timesheet capture report.pdf
+09-12-2021  12:04           105,186 Projects Status.xlsx
+06-12-2021  12:53           453,120 TimesheetBDsBb.xls
+               3 File(s)        713,911 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Report to SM\15-09-21
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+15-09-2021  11:47            80,896 TimesheetESqhu.xls
+               1 File(s)         80,896 bytes
+
+ Directory of D:\E Drive\CMMI\2022\PEG works\PEG_2022\Einframe\Screen Caps
+
+22-07-2022  15:17    <DIR>          .
+22-07-2022  15:17    <DIR>          ..
+07-07-2021  11:29            65,257 Concept Qualification - Comparison of two concepts.png
+07-07-2021  11:29            53,348 Ideation Themes.png
+07-07-2021  11:29            39,819 Risk Management.png
+07-07-2021  11:29            15,919 Time Sheet Capture.png
+07-07-2021  11:29            72,683 Value Proposition - Capture.png
+07-07-2021  11:29            53,214 Value Proposition.png
+               6 File(s)        300,240 bytes
+
+     Total Files Listed:
+             149 File(s)    104,744,216 bytes
+             278 Dir(s)  400,860,893,184 bytes free
